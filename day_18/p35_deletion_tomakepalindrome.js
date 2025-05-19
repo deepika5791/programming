@@ -21,5 +21,5 @@ function countMinDeletions(str, left, right) {
   }
 }
 
-const result = minDeletionsToPalindrome("acbcda");
+const result = minDeletionsToPalindrome("aebcda");
 console.log(result);
