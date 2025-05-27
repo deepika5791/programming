@@ -11,4 +11,4 @@ function waveForm(arr) {
   }
   return arr;
 }
-console.log(waveform((20, 10, 2, 6, 4, 2)));
+console.log(waveForm([20, 10, 2, 6, 4, 2]));
